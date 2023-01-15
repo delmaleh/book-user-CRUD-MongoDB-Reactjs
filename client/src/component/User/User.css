@@ -1,0 +1,8 @@
+.bold{
+    font-weight: bold;
+}
+
+.card{
+    width: 18rem;
+    min-height: 15rem;
+}
